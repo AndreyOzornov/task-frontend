@@ -1,0 +1,16 @@
+<svg id="Ebene_3" data-name="Ebene 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 29">
+  <defs>
+    <style>
+    .cls-1 {
+      fill: #fff;
+    }
+
+    </style>
+  </defs>
+  <title>To-Do_W</title>
+  <path class="cls-1" d="M25,5H22a2,2,0,0,0-2-2H19a2,2,0,0,0-2-2H15a2,2,0,0,0-1.41.59A2,2,0,0,0,13,3H12a2,2,0,0,0-2,2H7A2,2,0,0,0,5,7V28a2,2,0,0,0,2,2H25a2,2,0,0,0,2-2V7A2,2,0,0,0,25,5ZM12.18,5H14a1,1,0,0,0,1-1,1,1,0,0,1,2,0,1,1,0,0,0,1,1h1.82V7H12.18ZM25,28H7V7h3V8a1.05,1.05,0,0,0,1.09,1h9.82A1.05,1.05,0,0,0,22,8V7h3Z" transform="translate(-5 -1)" />
+  <rect class="cls-1" x="19.5" y="12.5" width="2" height="5" rx="1" ry="1" transform="translate(0.5 34.5) rotate(-90)" />
+  <rect class="cls-1" x="19.5" y="19.5" width="2" height="5" rx="1" ry="1" transform="translate(-6.5 41.5) rotate(-90)" />
+  <path class="cls-1" d="M8.5,22.5l2,2a.71.71,0,0,0,1,0l4-4a.71.71,0,0,0,0-1h0a.71.71,0,0,0-1,0L11,23,9.5,21.5a.71.71,0,0,0-1,0h0A.71.71,0,0,0,8.5,22.5Z" transform="translate(-5 -1)" />
+  <path class="cls-1" d="M8.5,15.5l2,2a.71.71,0,0,0,1,0l4-4a.71.71,0,0,0,0-1h0a.71.71,0,0,0-1,0L11,16,9.5,14.5a.71.71,0,0,0-1,0h0A.71.71,0,0,0,8.5,15.5Z" transform="translate(-5 -1)" />
+</svg>

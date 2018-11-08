@@ -1,0 +1,731 @@
+[
+  {
+    "key": "test.test",
+    "value": "This is english."
+  },
+  {
+    "key": "miau",
+    "value": "The sound of a cat."
+  },
+  {
+    "key": "app.showpassword",
+    "value": "show password"
+  },
+  {
+    "key": "app.password",
+    "value": "password"
+  },
+  {
+    "key": "app.next",
+    "value": "next"
+  },
+  {
+    "key": "app.hidden",
+    "value": "Hidden"
+  },
+  {
+    "key": "app.nopermissions",
+    "value": "You do not have sufficient permissions for this feature."
+  },
+  {
+    "key": "app.firstname",
+    "value": "First name"
+  },
+  {
+    "key": "app.surname",
+    "value": "Surname"
+  },
+  {
+    "key": "app.username",
+    "value": "Username"
+  },
+  {
+    "key": "app.user",
+    "value": "User"
+  },
+  {
+    "key": "app.apiuser",
+    "value": "API User"
+  },
+  {
+    "key": "app.or",
+    "value": "or"
+  },
+  {
+    "key": "app.next",
+    "value": "next"
+  },
+  {
+    "key": "app.back",
+    "value": "back"
+  },
+  {
+    "key": "app.okay",
+    "value": "okay"
+  },
+  {
+    "key": "app.save",
+    "value": "save"
+  },
+  {
+    "key": "app.abort",
+    "value": "abort"
+  },
+  {
+    "key": "app.close",
+    "value": "Close"
+  },
+  {
+    "key": "app.print",
+    "value": "Print"
+  },
+  {
+    "key": "app.notification",
+    "value": "Notification"
+  },
+  {
+    "key": "app.notifications",
+    "value": "Notifications"
+  },
+  {
+    "key": "app.message",
+    "value": "Message"
+  },
+  {
+    "key": "app.messages",
+    "value": "Messages"
+  },
+  {
+    "key": "app.title",
+    "value": "Title"
+  },
+  {
+    "key": "app.describtion",
+    "value": "Describtion"
+  },
+  {
+    "key": "app.vibration",
+    "value": "Vibration"
+  },
+  {
+    "key": "app.targetperson",
+    "value": "Target Person"
+  },
+  {
+    "key": "app.sendto",
+    "value": "Send to"
+  },
+  {
+    "key": "app.answer",
+    "value": "Answer"
+  },
+  {
+    "key": "app.forwardable",
+    "value": "Forwardable"
+  },
+  {
+    "key": "app.forwardableto",
+    "value": "Forwardable to"
+  },
+  {
+    "key": "app.newtodo",
+    "value": "new ToDo"
+  },
+  {
+    "key": "app.color",
+    "value": "color"
+  },
+  {
+    "key": "app.configureWiFi",
+    "value": "configure WiFi"
+  },
+  {
+    "key": "app.aucoboip",
+    "value": "aucobo Host"
+  },
+  {
+    "key": "app.aucoboport",
+    "value": "aucobo Port"
+  },
+  {
+    "key": "app.aucobouser",
+    "value": "aucobo User"
+  },
+  {
+    "key": "app.aucobopassword",
+    "value": "aucobo Passwort"
+  },
+  {
+    "key": "app.rabbitip",
+    "value": "Rabbit Host"
+  },
+  {
+    "key": "app.rabbitport",
+    "value": "Rabbit Port"
+  },
+  {
+    "key": "app.rabbitusername",
+    "value": "Rabbit Username"
+  },
+  {
+    "key": "app.rabbitpasswort",
+    "value": "Rabbit Passwort"
+  },
+  {
+    "key": "app.permission",
+    "value": "Permission"
+  },
+  {
+    "key": "app.permissions",
+    "value": "Permissions"
+  },
+  {
+    "key": "app.reflections",
+    "value": "Please avoid reflections."
+  },
+  {
+    "key": "button-configuration-page.title",
+    "value": "button configuration"
+  },
+  {
+    "key": "button-configuration-page.heading",
+    "value": "smartwatch"
+  },
+  {
+    "key": "button-configuration-page.enterbuttonname",
+    "value": "enter button name"
+  },
+  {
+    "key": "button-configuration-page.synchronizebuttons",
+    "value": "synchronise buttons"
+  },
+  {
+    "key": "button-configuration-page.buttonssuccessfullyupdated",
+    "value": "Updated buttons successfully."
+  },
+  {
+    "key": "button-configuration-page.buttonupdateerror",
+    "value": "Update failed. Are you connected to the server?"
+  },
+
+  {
+    "key": "change-user-password-page.title",
+    "value": "change userpassword"
+  },
+  {
+    "key": "change-user-password-page.heading",
+    "value": "change userpassword"
+  },
+  {
+    "key": "change-user-password-page.description",
+    "value": "Change password for user"
+  },
+  {
+    "key": "change-user-password-page.oldpassword",
+    "value": "old password"
+  },
+  {
+    "key": "change-user-password-page.newpassword",
+    "value": "new password"
+  },
+  {
+    "key": "change-user-password-page.repeatpassword",
+    "value": "repeat password"
+  },
+  {
+    "key": "change-user-password-page.changepassword",
+    "value": "change password"
+  },
+  {
+    "key": "change-user-password-page.fillallpassworderror",
+    "value": "Please fill all password input fields."
+  },
+  {
+    "key": "change-user-password-page.passwordsuccessfullychanged",
+    "value": "Passwords changed successfully."
+  },
+  {
+    "key": "change-user-password-page.passwordchangenotpossible",
+    "value": "Password could not be changed."
+  },
+  {
+    "key": "change-user-password-page.passwordsdoesntmatch",
+    "value": "Passwords don't match."
+  },
+  {
+    "key": "configure-wifi-page.scantoconnect",
+    "value": "Scan this QR code with your aucobo smartwatch"
+  },
+  {
+    "key": "configure-wifi-page.oryourapp",
+    "value": "or your aucobo app. Use the button"
+  },
+  {
+    "key": "configure-wifi-page.connecttowifi",
+    "value": "Connect to Wi-Fi"
+  },
+  {
+    "key": "configure-wifi-page.intheinfotab",
+    "value": "in the 'Info' tab."
+  },
+  {
+    "key": "configure-wifi-page.wifiname",
+    "value": "(WiFi name)"
+  },
+  {
+    "key": "configure-wifi-page.authentification",
+    "value": "Authentification"
+  },
+  {
+    "key": "configure-wifi-page.none",
+    "value": "none"
+  },
+  {
+    "key": "configure-wifi-page.generateWifiCode",
+    "value": "Generate Wifi Code"
+  },
+  {
+    "key": "new-notification-page.newmessage",
+    "value": "new message"
+  },
+  {
+    "key": "new-notification-page.sendmessage",
+    "value": "send message"
+  },
+  {
+    "key": "new-todo-page.priority",
+    "value": "Priority"
+  },
+  {
+    "key": "new-todo-page.sendtodo",
+    "value": "Send ToDo"
+  },
+  {
+    "key": "notification-overview-page.of",
+    "value": "of"
+  },
+  {
+    "key": "permission-page.technicalroleusing",
+    "value": "Technical role for using the aucobo APIs via third-party systems."
+  },
+  {
+    "key": "permission-page.useofmessagingapi",
+    "value": "Using the Messaging API (CRUD)"
+  },
+  {
+    "key": "permission-page.useofmanagingapi",
+    "value": "Use of the Managing API (CRUD)"
+  },
+  {
+    "key": "permission-page.useofeventapi",
+    "value": "Use of the Events API (C)"
+  },
+  {
+    "key": "permission-page.useofpermissionapi",
+    "value": "Use of the Permissions API (CRUD)"
+  },
+  {
+    "key": "permission-page.processowner",
+    "value": "Process Owner"
+  },
+  {
+    "key": "permission-page.processownerrole",
+    "value": "Role that sets up, analyzes and manages workflows."
+  },
+  {
+    "key": "permission-page.acesstoworkfloweditor",
+    "value": "Has access to Workflow Editor"
+  },
+  {
+    "key": "permission-page.canadjustsmartwatch",
+    "value": "Can attach, delete and adjust smartwatches via the frontend"
+  },
+  {
+    "key": "permission-page.canadjustroles",
+    "value": "Can create, delete, adjust and manage roles via the frontend"
+  },
+  {
+    "key": "permission-page.canadjustusers",
+    "value": "Can create, delete and customize users and add them to roles via the frontend"
+  },
+  {
+    "key": "permission-page.canadjustmessagesandtodos",
+    "value": "Can send messages and ToDos via the frontend and see them all"
+  },
+  {
+    "key": "permission-page.roleequippedwithasmartwatch",
+    "value": "Role equipped with a smartwatch."
+  },
+  {
+    "key": "permission-page.canreceivemessages",
+    "value": "Can receive messages"
+  },
+  {
+    "key": "permission-page.canreacttotodos",
+    "value": "Can react to ToDos"
+  },
+  {
+    "key": "permission-page.admin",
+    "value": "Admin"
+  },
+  {
+    "key": "permission-page.rolethatoperatesthesystem",
+    "value": "Role, that operates the system on the IT side."
+  },
+  {
+    "key": "permission-page.hasaccesstoallsystemsandfunctions",
+    "value": "Has access to all systems and functions. Especially:"
+  },
+  {
+    "key": "permission-page.hasaccesstoaucoboconnectors",
+    "value": "Has access to aucobo connectors and can customize the interface"
+  },
+  {
+    "key": "permission-page.hasaccesstologfiles",
+    "value": "Has access to logfiles to understand errors"
+  },
+  {
+    "key": "permission-page.hasaccesstomessaging",
+    "value": "Has access to messaging (RabbitMQ)"
+  },
+  {
+    "key": "permission-page.cancustomizepermissions",
+    "value": "Can customize permissions"
+  },
+  {
+    "key": "permission-page.addnewpermissionuser",
+    "value": "Add new permission user"
+  },
+  {
+    "key": "roles-page.roles",
+    "value": "Roles"
+  },
+  {
+    "key": "roles-page.adjustroles",
+    "value": "adjust roles"
+  },
+  {
+    "key": "roles-page.insertnewnamehere",
+    "value": "insert new name here"
+  },
+  {
+    "key": "roles-page.addnewroles",
+    "value": "add new roles"
+  },
+  {
+    "key": "roles-page.inserthererolenametodelete",
+    "value": "insert here role name to delete"
+  },
+  {
+    "key": "roles-page.deleterole",
+    "value": " delete role"
+  },
+  {
+    "key": "roles-page.norolesavailable.",
+    "value": " no roles available."
+  },
+  {
+    "key": "roles-page.noemployeesdeployedtorole.",
+    "value": "no employees deployed to role."
+  },
+  {
+    "key": "setup-smartwatch-page.ssid",
+    "value": "SSID:"
+  },
+  {
+    "key": "setup-smartwatch-page.scanthisqrcode",
+    "value": "Scan this QR code with your aucobo smartwatch"
+  },
+  {
+    "key": "setup-smartwatch-page.oryouraucoboapp",
+    "value": "or your aucobo app. Use the button"
+  },
+  {
+    "key": "setup-smartwatch-page.connecttowifi",
+    "value": "connect to WiFi"
+  },
+  {
+    "key": "setup-smartwatch-page.inthetab",
+    "value": "in the tab"
+  },
+  {
+    "key": "setup-smartwatch-page.info",
+    "value": "Info"
+  },
+  {
+    "key": "setup-smartwatch-page.oryouraucoboapp",
+    "value": "or in your aucobo app"
+  },
+  {
+    "key": "setup-smartwatch-page.scanthisqrcode",
+    "value": "Scan this QR code with your aucobo smartwatch"
+  },
+  {
+    "key": "setup-smartwatch-page.wifissid",
+    "value": "SSID (WiFi name)"
+  },
+  {
+    "key": "setup-smartwatch-page.authentification",
+    "value": "Authentification"
+  },
+  {
+    "key": "setup-smartwatch-page.generateWifiCode",
+    "value": "Generate Wifi Code"
+  },
+  {
+    "key": "setup-smartwatch-page.assignexistingusers",
+    "value": "assign existing users"
+  },
+  {
+    "key": "setup-smartwatch-page.determineowner",
+    "value": "Determine owner and set configuration data"
+  },
+  {
+    "key": "setup-smartwatch-page.createnewuser",
+    "value": "create new user"
+  },
+  {
+    "key": "setup-smartwatch-page.generatesmartwatchcode",
+    "value": "Generate smartwatch code"
+  },
+  {
+    "key": "setup-smartwatch-page.ready",
+    "value": "Ready"
+  },
+  {
+    "key": "setup-smartwatch-page.configurationcompleted",
+    "value": "Configuration completed"
+  },
+  {
+    "key": "setup-smartwatch-page.configureanewsmartwatch",
+    "value": "Configure a new smartwatch"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.loadinglogs",
+     "value": "Loading logs..."
+  },
+  {
+     "key": "smartwatch-logs-individual-page.aproblemoccured",
+     "value": "A problem occured"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.details",
+     "value": "Details"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.logsfromsmartwatch",
+     "value": "Logs from smartwatch"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.nologsavailable",
+     "value": "No logs available"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.timeofday",
+     "value": "Time of day"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.level",
+     "value": "Level"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.categorie",
+     "value": "Categorie"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.entry",
+     "value": "Entry"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.environmentalparameters",
+     "value": "Environmental parameters"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.logs",
+     "value": "Logs"
+  },
+  {
+     "key": "smartwatch-logs-individual-page.of",
+     "value": "of"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.loadinglogs",
+     "value": "Loading logs... "
+  },
+  {
+     "key": "smartwatch-logs-overview-page.Logs",
+     "value": "Logs"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.nologsavailable",
+     "value": "No logs available"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.smartwatch",
+     "value": "Smartwatch"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.lastentries",
+     "value": "Load last Log entries"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.level",
+     "value": "Level"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.category",
+     "value": "Categorie"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.environmentvariables",
+     "value": "Environment variables"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.logs",
+     "value": "Log's"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.of",
+     "value": "of"
+  },
+  {
+     "key": "smartwatch-logs-page.smartwatches",
+     "value": "Smartwatches"
+  },
+  {
+     "key": "smartwatch-logs-page.nosmartwatchesavailable",
+     "value": "No smartwatches available"
+  },
+  {
+     "key": "smartwatch-logs-page.owner",
+     "value": "Owner"
+  },
+  {
+     "key": "smartwatch-logs-page.status",
+     "value": "Status"
+  },
+  {
+     "key": "smartwatch-logs-page.infos",
+     "value": "Infos"
+  },
+  {
+     "key": "smartwatch-logs-page.configure",
+     "value": "Configure"
+  },
+  {
+     "key": "smartwatch-logs-page.test",
+     "value": "Test"
+  },
+  {
+     "key": "smartwatch-logs-page.delete",
+     "value": "Delete"
+  },
+  {
+     "key": "smartwatch-logs-page.aucoboip",
+     "value": "aucobo Host"
+  },
+  {
+     "key": "smartwatch-logs-page.rabbitip",
+     "value": "Rabbit Host"
+  },
+  {
+     "key": "smartwatch-logs-page.logs",
+     "value": "logs"
+  },
+  {
+     "key": "smartwatch-logs-page.gotorabbitqueue",
+     "value": "Go to rabbit queue"
+  },
+  {
+     "key": "smartwatch-logs-page.notification",
+     "value": "Notification"
+  },
+  {
+     "key": "smartwatch-logs-page.ToDo",
+     "value": "ToDo"
+  },
+  {
+     "key": "smartwatch-logs-page.smartwatchess",
+     "value": "Smartwatches's"
+  },
+  {
+     "key": "smartwatch-logs-page.of",
+     "value": "of"
+  },
+  {
+     "key": "start-page.smartwatchw",
+     "value": "Smartwatch_W"
+  },
+  {
+     "key": "start-page.configuresmartwatch",
+     "value": "configure Smartwatch"
+  },
+  {
+     "key": "start-page.wifiw",
+     "value": "WiFi_W"
+  },
+  {
+     "key": "start-page.configurewifi",
+     "value": "configure WiFi"
+  },
+  {
+     "key": "todo-page.todos",
+     "value": "ToDos"
+  },
+  {
+     "key": "todo-page.notodosavailable",
+     "value": "No ToDos available"
+  },
+  {
+     "key": "todo-page.title",
+     "value": "Title"
+  },
+  {
+     "key": "todo-page.description",
+     "value": "Description"
+  },
+  {
+     "key": "todo-page.priority",
+     "value": "Priority"
+  },
+  {
+     "key": "todo-page.responsible",
+     "value": "Responsible"
+  },
+  {
+     "key": "todo-page.status",
+     "value": "Status"
+  },
+  {
+     "key": "todo-page.todoss",
+     "value": "Todo's"
+  },
+  {
+     "key": "todo-page.of",
+     "value": "of"
+  },
+  {
+     "key": "user-page.employee",
+     "value": "Employee"
+  },
+  {
+     "key": "user-page.noemployeesavailable",
+     "value": "No employees available"
+  },
+  {
+     "key": "user-page.firstname",
+     "value": "First name"
+  },
+  {
+     "key": "user-page.notspecified",
+     "value": "not specified"
+  },
+  {
+     "key": "user-page.surname",
+     "value": "Surname"
+  },
+  {
+     "key": "user-page.email",
+     "value": "Email"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "smartwatches": [
+        {
+          "_id":"5b915043c7e0cc0007031667",
+          "owner":{
+            "_id":"5aafc14c37212f0005e69fd8",
+            "firstname":"Benjamin",
+            "lastname":"Schaich",
+            "name":"BennySCH"
+          },
+          "online":true
+        },
+        {
+          "_id":"5bc357e73d2e31000ac6d44d",
+          "online":true
+        },
+        {
+          "_id":"5bc49c743d2e31000ac6e4bd",
+          "owner":{
+            "_id":"5b73fa0cc7e0cc0007c70f50",
+            "firstname":"Timo",
+            "lastname":"P",
+            "name":"Timo"
+          },
+          "online":false
+        },
+        {
+          "_id":"5bc5ebab3d2e310007db06ae",
+          "owner":{
+            "_id":"5bc5ebab3d2e310007db06ac",
+            "firstname":"",
+            "lastname":"",
+            "name":"smartphone"
+          },
+          "online":false
+        },
+        {
+          "_id":"5bc6331e3d2e310007db06da",
+          "online":false
+        },
+        {
+          "_id":"5bc6337e3d2e310005fbbd0d",
+          "owner":{
+            "_id":"5bc6337e3d2e310005fbbd0b",
+            "firstname":"asdfasdfasdf",
+            "lastname":"asdfasdfasdf",
+            "name":"asdfasdf"
+          },
+          "online":false
+        },
+        {
+          "_id":"5bc6f02b3d2e310005fbbd33",
+          "owner":{
+            "_id":"5b727ac6c7e0cc00050aa82b",
+            "firstname":"Ozornov",
+            "lastname":"",
+            "name":"Andrey"
+          },
+          "online":false
+        },
+        {
+          "_id":"5bc8aef23d2e310005656775",
+          "online":true
+        },
+      {
+        "_id": "5be00b9f31142d0006a8ef04",
+        "owner": {
+          "_id": "5bc09f413d2e310005099c35",
+          "firstname": "Wielland",
+          "lastname": "",
+          "name": "Ellen"
+        },
+        "online": false
+      }
+  ]
+}
+

@@ -1,0 +1,388 @@
+[
+  {
+    "key": "test.test",
+    "value": "Das ist deutsch."
+  },
+  {
+    "key": "miau",
+    "value": "Das Geräusch einer Katze"
+  },
+  {
+    "key": "app.showpassword",
+    "value": "zeige Passwort"
+  },
+  {
+    "key": "app.login",
+    "value": "Login"
+  },
+  {
+    "key": "app.password",
+    "value": "Passwort"
+  },
+  {
+    "key": "app.hidden",
+    "value": "Versteckt"
+  },
+  {
+    "key": "app.nopermissions",
+    "value": "Sie haben leider keine Berechtigung für diese Funktion."
+  },
+  {
+    "key": "app.firstname",
+    "value": "Vorname"
+  },
+  {
+    "key": "app.surname",
+    "value": "Nachname"
+  },
+  {
+    "key": "app.username",
+    "value": "Username"
+  },
+  {
+    "key": "app.next",
+    "value": "weiter"
+  },
+  {
+    "key": "app.back",
+    "value": "zurück"
+  },
+  {
+    "key": "app.okay",
+    "value": "okay"
+  },
+  {
+    "key": "app.save",
+    "value": "speichern"
+  },
+  {
+    "key": "app.abort",
+    "value": "abbrechen"
+  },
+  {
+    "key": "app.close",
+    "value": "Schließen"
+  },
+  {
+    "key": "app.print",
+    "value": "Drucken"
+  },
+  {
+    "key": "app.configureWiFi",
+    "value": "WLAN einstellen"
+  },
+  {
+    "key": "app.aucoboip",
+    "value": "aucobo Host"
+  },
+  {
+    "key": "app.aucoboport",
+    "value": "aucobo Port"
+  },
+  {
+    "key": "app.aucobouser",
+    "value": "aucobo User"
+  },
+  {
+    "key": "app.aucobopassword",
+    "value": "aucobo Passwort"
+  },
+  {
+    "key": "app.rabbitip",
+    "value": "Rabbit Host"
+  },
+  {
+    "key": "app.rabbitport",
+    "value": "Rabbit Port"
+  },
+  {
+    "key": "app.rabbitusername",
+    "value": "Rabbit Username"
+  },
+  {
+    "key": "app.rabbitpasswort",
+    "value": "Rabbit Passwort"
+  },
+  {
+    "key": "app.permission",
+    "value": "Berechtigung"
+  },
+  {
+    "key": "app.permissions",
+    "value": "Berechtigungen"
+  },
+  {
+    "key": "app.reflections",
+    "value": "Bitte vermeiden Sie Spiegelungen."
+  },
+  {
+    "key": "button-configuration-page.title",
+    "value": "Button Konfiguration"
+  },
+  {
+    "key": "button-configuration-page.heading",
+    "value": "Smartwatch"
+  },
+  {
+    "key": "button-configuration-page.enterbuttonname",
+    "value": "Button Name eingeben"
+  },
+  {
+    "key": "button-configuration-page.synchronizebuttons",
+    "value": "Buttons synchronisieren"
+  },
+  {
+    "key": "button-configuration-page.buttonssuccessfullyupdated",
+    "value": "Buttens erfolgreich aktualisiert."
+  },
+  {
+    "key": "button-configuration-page.buttonupdateerror",
+    "value": "Aktualisieren fehlgeschlagen. Sind Sie mit dem Server verbunden?"
+  },
+
+  {
+    "key": "change-user-password-page.title",
+    "value": "Benutzerpasswort ändern"
+  },
+  {
+    "key": "change-user-password-page.heading",
+    "value": "Benutzerpasswort ändern"
+  },
+  {
+    "key": "change-user-password-page.description",
+    "value": "Passwort ändern für Benutzer"
+  },
+  {
+    "key": "change-user-password-page.oldpassword",
+    "value": "altes Passwort"
+  },
+  {
+    "key": "change-user-password-page.newpassword",
+    "value": "neues Passwort"
+  },
+  {
+    "key": "change-user-password-page.repeatpassword",
+    "value": "Passwort wiederholen"
+  },
+  {
+    "key": "change-user-password-page.changepassword",
+    "value": "Passwort ändern"
+  },
+  {
+    "key": "change-user-password-page.fillallpassworderror",
+    "value": "Bitte füllen Sie alle Passwortfelder aus."
+  },
+  {
+    "key": "change-user-password-page.passwordsuccessfullychanged",
+    "value": "Passwort erfolgreich geändert."
+  },
+  {
+    "key": "change-user-password-page.passwordchangenotpossible",
+    "value": "Passwort konnte nicht geändert werden."
+  },
+  {
+    "key": "change-user-password-page.passwordsdoesntmatch",
+    "value": "Passwörter unterscheiden sich."
+  },
+  {
+    "key": "configure-wifi-page.reflections",
+    "value": "Bitte vermeiden Sie Spiegelungen."
+  },
+  {
+    "key": "configure-wifi-page.scantoconnect",
+    "value": "Scannen Sie diesen QR-Code mit Ihrer aucobo Smartwatch"
+  },
+  {
+    "key": "configure-wifi-page.oryourapp",
+    "value": "oder Ihrer aucobo App. Nutzen Sie den Button"
+  },
+  {
+    "key": "configure-wifi-page.connecttowifi",
+    "value": ">Mit WLAN verbinden"
+  },
+  {
+    "key": "configure-wifi-page.intheinfotab",
+    "value": "im Reiter '<strong>Info</strong>'."
+  },
+  {
+    "key": "configure-wifi-page.wifiname",
+    "value": "(Name des WLANs)"
+  },
+  {
+    "key": "configure-wifi-page.authentification",
+    "value": "Authentifizierung"
+  },
+  {
+    "key": "configure-wifi-page.none",
+    "value": "Ohne"
+  },
+  {
+    "key": "configure-wifi-page.generateWifiCode",
+    "value": "Generiere WLAN Code"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.lastentries",
+     "value": "Lade letzte Log Einträge"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.level",
+     "value": "Level"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.category",
+     "value": "Kategorie"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.environmentvariables",
+     "value": "Umgebungsvariablen"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.logs",
+     "value": "Log's"
+  },
+  {
+     "key": "smartwatch-logs-overview-page.of",
+     "value": "von"
+  },
+  {
+     "key": "smartwatch-logs-page.smartwatches",
+     "value": "Smartwatches"
+  },
+  {
+     "key": "smartwatch-logs-page.nosmartwatchesavailable",
+     "value": "Keine Smartwatches vorhanden"
+  },
+  {
+     "key": "smartwatch-logs-page.owner",
+     "value": "Besitzer"
+  },
+  {
+     "key": "smartwatch-logs-page.status",
+     "value": "Status"
+  },
+  {
+     "key": "smartwatch-logs-page.infos",
+     "value": "Infos"
+  },
+  {
+     "key": "smartwatch-logs-page.configure",
+     "value": "Konfigurieren"
+  },
+  {
+     "key": "smartwatch-logs-page.test",
+     "value": "Testen"
+  },
+  {
+     "key": "smartwatch-logs-page.delete",
+     "value": "Löschen"
+  },
+  {
+     "key": "smartwatch-logs-page.aucoboip",
+     "value": "aucobo Host"
+  },
+  {
+     "key": "smartwatch-logs-page.rabbitip",
+     "value": "Rabbit Host"
+  },
+  {
+     "key": "smartwatch-logs-page.logs",
+     "value": "logs"
+  },
+  {
+     "key": "smartwatch-logs-page.gotorabbitqueue",
+     "value": "Gehe zur rabbit queue"
+  },
+  {
+     "key": "smartwatch-logs-page.notification",
+     "value": "Notification"
+  },
+  {
+     "key": "smartwatch-logs-page.ToDo",
+     "value": "ToDo"
+  },
+  {
+     "key": "smartwatch-logs-page.smartwatchess",
+     "value": "Smartwatches's"
+  },
+  {
+     "key": "smartwatch-logs-page.of",
+     "value": "von"
+  },
+  {
+     "key": "start-page.smartwatchw",
+     "value": "Smartwatch_W"
+  },
+  {
+     "key": "start-page.configuresmartwatch",
+     "value": "Smartwatch konfigurieren"
+  },
+  {
+     "key": "start-page.wifiw",
+     "value": "WiFi_W"
+  },
+  {
+     "key": "start-page.configurewifi",
+     "value": "WLAN konfigurieren"
+  },
+  {
+     "key": "todo-page.todos",
+     "value": "ToDos"
+  },
+  {
+     "key": "todo-page.notodosavailable",
+     "value": "Keine Todos vorhanden"
+  },
+  {
+     "key": "todo-page.title",
+     "value": "Titel"
+  },
+  {
+     "key": "todo-page.description",
+     "value": "Beschreibung"
+  },
+  {
+     "key": "todo-page.priority",
+     "value": "Priorität"
+  },
+  {
+     "key": "todo-page.responsible",
+     "value": "Verantwortlicher"
+  },
+  {
+     "key": "todo-page.status",
+     "value": "Status"
+  },
+  {
+     "key": "todo-page.todoss",
+     "value": "Todo's"
+  },
+  {
+     "key": "todo-page.of",
+     "value": "von"
+  },
+  {
+     "key": "user-page.employee",
+     "value": "Mitarbeiter"
+  },
+  {
+     "key": "user-page.noemployeesavailable",
+     "value": "Keine Mitarbeiter vorhanden"
+  },
+  {
+     "key": "user-page.firstname",
+     "value": "Vorname"
+  },
+  {
+     "key": "user-page.notspecified",
+     "value": "nicht angegeben"
+  },
+  {
+     "key": "user-page.surname",
+     "value": "Nachname"
+  },
+  {
+     "key": "user-page.email",
+     "value": "Email"
+  }
+
+]
